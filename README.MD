@@ -55,9 +55,9 @@ You can just download the SLS-printable .STL files, and have them printed at any
 
 These are the models:
 
-[Right side extender](support_20deg_R.stl)
+[Right side extender](https://raw.githubusercontent.com/kheki4/PupilCoreExtender/master/support_20deg_R.stl)
 
-[Left side extender](support_20deg_L.stl)
+[Left side extender](https://raw.githubusercontent.com/kheki4/PupilCoreExtender/master/support_20deg_L.stl)
 
 Imporantly, you need the bits made using stereolitography (SLS) printing, because they are so small, but at the same time need ample stiffness and resistance to mechanical stress, that SLS is highly optimal for producing them. (As you might have noticed, the original Pupil Core is also SLS-printed.)
 
